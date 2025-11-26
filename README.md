@@ -118,12 +118,6 @@ Shivam Kumar & Kalash Tiwari. Unauthorized copying, modification,
 distribution, or use of any part of this project is strictly prohibited  
 unless explicit permission is granted by the owners.
 ```
-
----
-
-## 🏆 Hackathon Pitch Statement  
-**"NeuraVox is a real-time neural voice intelligence assistant powered by Murf Falcon and GPT. It understands speech instantly, thinks intelligently, and responds in natural voice. Built with speed, precision, and scalability — perfect for next-gen voice AI experiences."**
-
 ---
 
 ## ⭐ Support  
