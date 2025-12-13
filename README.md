@@ -1,3 +1,4 @@
+Closed
 # 🎙️ NeuraVox – Real-Time Voice Intelligence Assistant  
 ### Powered by Murf Falcon TTS · Deepgram/AssemblyAI ASR · GPT Reasoning  
 #### Built by Shivam Kumar & Kalash Tiwari
